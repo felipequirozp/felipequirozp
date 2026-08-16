@@ -20,10 +20,10 @@ Currently, I'm a **Product Manager at GeoVictoria**, working on Workforce Manage
 
 ## ⚡ Currently
 
-**Product Manager @ GeoVictoria**  
+**Product Manager @GeoVictoria**  
 Building and evolving SaaS products for workforce management.
 
-**Co-Founder & COO @ LowSignal**  
+**Co-Founder & COO @lowsignal**  
 Building growth systems that combine product, marketing, technology and AI.
 
 ---
