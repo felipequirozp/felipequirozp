@@ -9,7 +9,7 @@ Building useful products and growth systems at the intersection of **business, t
 
 <a href="https://www.linkedin.com/in/felipequirozp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://felipequirozp.cl"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://lowsignal.cl"><img src="https://img.shields.io/badge/lowsignal-Less%20noise.%20More%20growth.-111827?style=for-the-badge" alt="lowsignal"></a>
+<a href="https://lowsignal.cl"><img src="https://img.shields.io/badge/lowsignal-Less%20noise.%20More%20growth.-2364F2?style=for-the-badge" alt="lowsignal"></a>
 
 </div>
 
@@ -47,7 +47,7 @@ B2B SaaS · Product · Workforce tech
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://tether.education"><img src="https://www.google.com/s2/favicons?domain_url=https://tether.education&sz=128" width="38" alt="Tether Education logo"></a>
+<a href="https://tether.education"><img src="assets/tether-logo.png" width="48" alt="Tether Education logo"></a>
 
 ### Tether Education · Head of Partnerships
 Built partnerships across **7 markets** and worked with public education systems and institutions on technology and AI-enabled initiatives.
