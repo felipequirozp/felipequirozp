@@ -9,7 +9,7 @@ Building useful products and growth systems at the intersection of **business, t
 
 <a href="https://www.linkedin.com/in/felipequirozp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://felipequirozp.cl"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://lowsignal.cl"><img src="https://img.shields.io/badge/lowsignal-Less%20noise.%20More%20growth.-6C4CF1?style=for-the-badge" alt="lowsignal"></a>
+<a href="https://lowsignal.cl"><img src="https://img.shields.io/badge/lowsignal-Less%20noise.%20More%20growth.-111827?style=for-the-badge" alt="lowsignal"></a>
 
 </div>
 
@@ -38,7 +38,7 @@ Growth · Operations · AI · Digital
 <a href="https://www.geovictoria.com"><img src="https://www.google.com/s2/favicons?domain_url=https://www.geovictoria.com&sz=128" width="38" alt="GeoVictoria logo"></a>
 
 ### GeoVictoria · Product Manager
-Led discovery and product development for workforce management solutions, including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
+I work across product discovery and development for workforce management solutions, including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
 
 B2B SaaS · Product · Workforce tech
 
