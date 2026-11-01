@@ -1,82 +1,82 @@
-<!-- Header -->
 <div align="center">
 
 # Felipe Quiroz
 
-### Product, partnerships & growth — from idea to scale.
+### Founder & operator building at the intersection of growth, product and AI.
 
-Building useful products and growth systems at the intersection of **business, technology and AI**.
+I build companies, products and systems from **0 → 1**, connecting business, technology and execution.
 
-<a href="https://www.linkedin.com/in/felipequirozp/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://felipequirozp.cl"><img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-<a href="https://lowsignal.cl"><img src="https://img.shields.io/badge/lowsignal-Less%20noise.%20More%20growth.-2364F2?style=for-the-badge" alt="lowsignal"></a>
+[Website](https://felipequirozp.cl) · [LinkedIn](https://www.linkedin.com/in/felipequirozp/) · [lowsignal](https://lowsignal.cl)
 
 </div>
 
 ---
 
-## What I do
+## Currently
 
-I turn complex ideas into products, partnerships and systems that can grow. My work spans **Product Management, SaaS, AI, go-to-market strategy and operations**.
+### Co-Founder & CEO · [lowsignal](https://lowsignal.cl)
+
+Building a Chilean growth company for **Education, B2B and B2C**.
+
+We combine strategy, creative, technology, AI and automation to build growth systems — not isolated actions.
+
+**20+ organizations · 5+ industries · 3 verticals**
+
+I lead company strategy, commercial growth, operations, client delivery and the development of our internal products and systems.
+
+---
 
 ## Selected work
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### lowsignal
+**Company building · Growth · AI · Operations**
 
-<a href="https://lowsignal.cl"><img src="https://www.google.com/s2/favicons?domain_url=https://lowsignal.cl&sz=128" width="38" alt="lowsignal logo"></a>
+Building the company from the ground up: positioning, commercial systems, delivery operations, team development and new growth products.
 
-### lowsignal · Co-Founder & COO
-Building growth systems for companies across **education, B2B and B2C**. Leading strategy, operations, client delivery and the systems behind a growing studio.
+→ [lowsignal.cl](https://lowsignal.cl)
 
-Growth · Operations · AI · Digital
+### GeoVictoria
+**Product · B2B SaaS · Workforce Management**
 
-</td>
-<td width="50%" valign="top">
+Led product discovery, validation and evolution across workforce-management products including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
 
-<a href="https://www.geovictoria.com"><img src="https://www.google.com/s2/favicons?domain_url=https://www.geovictoria.com&sz=128" width="38" alt="GeoVictoria logo"></a>
+Worked directly with customers across Latin America to turn complex operational problems into scalable product experiences.
 
-### GeoVictoria · Product Manager
-I work across product discovery and development for workforce management solutions, including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
+### Tether Education
+**Partnerships · EdTech · GovTech · AI**
 
-B2B SaaS · Product · Workforce tech
+Led partnerships, business development and market expansion across **Latin America, the U.S. and Europe** for a U.S.-based AI-enabled EdTech and GovTech company.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Worked across an ecosystem of **600+ institutions in 7 markets**, connecting product, technology and education.
 
-<a href="https://tether.education"><img src="assets/tether-logo.png" width="48" alt="Tether Education logo"></a>
+---
 
-### Tether Education · Head of Partnerships
-Built partnerships across **7 markets** and worked with public education systems and institutions on technology and AI-enabled initiatives.
+## Things I like building
 
-EdTech · GovTech · Partnerships
+`0 → 1 products` · `growth systems` · `AI workflows` · `B2B SaaS` · `GTM engines` · `partnerships` · `better operations`
 
-</td>
-<td width="50%" valign="top">
+---
 
-<a href="https://felipequirozp.cl"><img src="https://www.google.com/s2/favicons?domain_url=https://felipequirozp.cl&sz=128" width="38" alt="Portfolio logo"></a>
+## Selected projects
 
-### More projects
-A closer look at products, education transformation and growth work across my career.
+A few deeper dives into things I've helped build:
 
-[Explore my portfolio →](https://felipequirozp.cl)
+- **lowsignal Workspace** — building the internal operating layer behind a growing company
+- **Smart Scheduler** — making complex shift planning easier to build, validate and publish
+- **Shift Optimizer** — workforce optimization from MVP to production
+- **Shift Change Workflow** — building a new employee shift-exchange experience from 0 → 1
+- **Education infrastructure** — technology, partnerships and digital systems for schools and public education
 
-</td>
-</tr>
-</table>
-
-## A few things I enjoy building
-
-0 → 1 products &nbsp; · &nbsp; AI workflows &nbsp; · &nbsp; Growth engines &nbsp; · &nbsp; Partnerships &nbsp; · &nbsp; Better ways to work
+→ **[Explore selected projects](https://felipequirozp.cl)**
 
 ---
 
 <div align="center">
 
-**Building what's next.**  
-Santiago, Chile · [LinkedIn](https://www.linkedin.com/in/felipequirozp/) · [felipequirozp.cl](https://felipequirozp.cl)
+### Less noise. More building.
+
+Santiago, Chile 🇨🇱
+
+[felipequirozp.cl](https://felipequirozp.cl)
 
 </div>
