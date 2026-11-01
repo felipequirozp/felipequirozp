@@ -16,7 +16,7 @@ I build companies, products and systems from **0 → 1**, connecting business, t
 
 ### Co-Founder & CEO · [lowsignal](https://lowsignal.cl)
 
-Building a Chilean growth company for **Education, B2B and B2C**.
+Building a Chilean growth company helping organizations grow across **Education, B2B and B2C**.
 
 We combine strategy, creative, technology, AI and automation to build growth systems — not isolated actions.
 
@@ -28,55 +28,77 @@ I lead company strategy, commercial growth, operations, client delivery and the 
 
 ## Selected work
 
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+<a href="https://lowsignal.cl">
+<img src="https://www.google.com/s2/favicons?domain_url=https://lowsignal.cl&sz=128" width="42" alt="lowsignal logo">
+</a>
+
 ### lowsignal
-**Company building · Growth · AI · Operations**
 
-Building the company from the ground up: positioning, commercial systems, delivery operations, team development and new growth products.
+**Co-Founder & CEO**
 
-→ [lowsignal.cl](https://lowsignal.cl)
+Building the company from the ground up across positioning, commercial systems, operations, client delivery, team development and new growth products.
+
+**Growth · AI · Operations · Company Building**
+
+[Visit lowsignal →](https://lowsignal.cl)
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="https://www.geovictoria.com">
+<img src="https://www.google.com/s2/favicons?domain_url=https://www.geovictoria.com&sz=128" width="42" alt="GeoVictoria logo">
+</a>
 
 ### GeoVictoria
-**Product · B2B SaaS · Workforce Management**
 
-Led product discovery, validation and evolution across workforce-management products including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
+**Product Manager**
+
+Led discovery, validation and product development across workforce-management solutions including **Smart Scheduler, Shift Optimizer and Shift Change Workflow**.
 
 Worked directly with customers across Latin America to turn complex operational problems into scalable product experiences.
 
+**B2B SaaS · Product · Workforce Tech**
+
+</td>
+
+<td width="33%" valign="top">
+
+<a href="https://tether.education">
+<img src="assets/tether-logo.png" width="48" alt="Tether Education logo">
+</a>
+
 ### Tether Education
-**Partnerships · EdTech · GovTech · AI**
+
+**Head of Partnerships**
 
 Led partnerships, business development and market expansion across **Latin America, the U.S. and Europe** for a U.S.-based AI-enabled EdTech and GovTech company.
 
 Worked across an ecosystem of **600+ institutions in 7 markets**, connecting product, technology and education.
 
----
+**EdTech · GovTech · AI · Partnerships**
 
-## Things I like building
+</td>
 
-`0 → 1 products` · `growth systems` · `AI workflows` · `B2B SaaS` · `GTM engines` · `partnerships` · `better operations`
+</tr>
+</table>
 
 ---
 
 ## Selected projects
 
-A few deeper dives into things I've helped build:
+A few deeper dives into products and systems I've helped build.
 
-- **lowsignal Workspace** — building the internal operating layer behind a growing company
-- **Smart Scheduler** — making complex shift planning easier to build, validate and publish
-- **Shift Optimizer** — workforce optimization from MVP to production
-- **Shift Change Workflow** — building a new employee shift-exchange experience from 0 → 1
-- **Education infrastructure** — technology, partnerships and digital systems for schools and public education
+<table>
+<tr>
 
-→ **[Explore selected projects](https://felipequirozp.cl)**
+<td width="50%" valign="top">
 
----
+### lowsignal Workspace
 
-<div align="center">
-
-### Less noise. More building.
-
-Santiago, Chile 🇨🇱
-
-[felipequirozp.cl](https://felipequirozp.cl)
-
-</div>
+Building the internal operating layer behind a growing company — bringing commercial activity, delivery, operations and internal workflows into one place
