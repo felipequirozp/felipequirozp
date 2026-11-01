@@ -1,28 +1,28 @@
 <div align="center">
 
-Felipe Quiroz
+# Felipe Quiroz
 
-Founder & operator building at the intersection of growth, product and AI.
+### Founder & operator building at the intersection of growth, product and AI.
 
-I build companies, products and systems from 0 → 1, connecting business, technology and execution.
+Building companies, products and systems from **0 → 1**.
 
-Website · LinkedIn · lowsignal
+[Website](https://felipequirozp.cl) · [LinkedIn](https://www.linkedin.com/in/felipequirozp/) · [lowsignal](https://lowsignal.cl)
 
 </div>
 
-Currently
+---
 
-Co-Founder & CEO · lowsignal
+## Currently
 
-Building a Chilean growth company helping organizations grow across Education, B2B and B2C.
+### Co-Founder & CEO · [lowsignal](https://lowsignal.cl)
 
-We combine strategy, creative, technology, AI and automation to build growth systems — not isolated actions.
+Building a growth company across **Education, B2B and B2C**, combining strategy, technology, AI and execution.
 
-20+ organizations · 5+ industries · 3 verticals
+**20+ organizations · 5+ industries · 3 verticals**
 
-I lead company strategy, commercial growth, operations, client delivery and the development of our internal products and systems.
+---
 
-Selected work
+## Selected work
 
 <table>
 <tr>
@@ -33,15 +33,13 @@ Selected work
 <img src="https://www.google.com/s2/favicons?domain_url=https://lowsignal.cl&sz=128" width="42" alt="lowsignal logo">
 </a>
 
-lowsignal
+### lowsignal
 
-Co-Founder & CEO
+**Co-Founder & CEO**
 
-Building the company from the ground up across positioning, commercial systems, operations, client delivery, team development and new growth products.
+Building growth systems, operations and new products from the ground up.
 
-Growth · AI · Operations · Company Building
-
-Visit lowsignal →
+Growth · AI · Operations
 
 </td>
 
@@ -51,15 +49,13 @@ Visit lowsignal →
 <img src="https://www.google.com/s2/favicons?domain_url=https://www.geovictoria.com&sz=128" width="42" alt="GeoVictoria logo">
 </a>
 
-GeoVictoria
+### GeoVictoria
 
-Product Manager
+**Product Manager**
 
-Led discovery, validation and product development across workforce-management solutions including Smart Scheduler, Shift Optimizer and Shift Change Workflow.
+Led product discovery and development across workforce-management products.
 
-Worked directly with customers across Latin America to turn complex operational problems into scalable product experiences.
-
-B2B SaaS · Product · Workforce Tech
+B2B SaaS · Product
 
 </td>
 
@@ -69,94 +65,48 @@ B2B SaaS · Product · Workforce Tech
 <img src="assets/tether-logo.png" width="48" alt="Tether Education logo">
 </a>
 
-Tether Education
+### Tether Education
 
-Head of Partnerships
+**Head of Partnerships**
 
-Led partnerships, business development and market expansion across Latin America, the U.S. and Europe for a U.S.-based AI-enabled EdTech and GovTech company.
+Led partnerships and expansion across **Latin America, the U.S. and Europe**.
 
-Worked across an ecosystem of 600+ institutions in 7 markets, connecting product, technology and education.
-
-EdTech · GovTech · AI · Partnerships
+EdTech · GovTech · AI
 
 </td>
 
 </tr>
 </table>
 
-Selected projects
+---
 
-A few deeper dives into products and systems I've helped build.
+## Selected projects
 
-<table>
-<tr>
+**lowsignal Workspace**  
+Internal tools and systems for running a growing company.
 
-<td width="50%" valign="top">
+**Smart Scheduler**  
+Shift planning with real-time compliance checks.
 
-lowsignal Workspace
+**Shift Optimizer**  
+Workforce optimization from MVP toward production.
 
-Building the internal operating layer behind a growing company — bringing commercial activity, delivery, operations and internal workflows into one place.
+**Shift Change Workflow**  
+Employee shift exchanges built from **0 → 1**.
 
-0 → 1 · Internal Tools · Operations · AI
+→ [Explore my projects](https://felipequirozp.cl)
 
-</td>
+---
 
-<td width="50%" valign="top">
+## I like building
 
-Smart Scheduler
+`0 → 1 products` · `growth systems` · `AI workflows` · `B2B SaaS` · `GTM`
 
-Making complex shift planning easier to build, validate and publish, with real-time checks for working-time rules before schedules reach operations.
-
-Product · Scheduling · Compliance · B2B SaaS
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-Shift Optimizer
-
-Worked across discovery, validation and product evolution to bring a workforce optimization solution from MVP toward production.
-
-Optimization · Product Discovery · SaaS
-
-</td>
-
-<td width="50%" valign="top">
-
-Shift Change Workflow
-
-Built a new employee shift-exchange experience from 0 → 1, combining operational rules, approvals and employee workflows.
-
-0 → 1 Product · Workflows · Workforce Tech
-
-</td>
-
-</tr>
-</table>
+---
 
 <div align="center">
 
-Explore selected projects →
-
-</div>
-
-What I like building
-
-0 → 1 products · growth systems · AI workflows · B2B SaaS · GTM engines · partnerships · better operations
-
-Around the web
-
-🌐 felipequirozp.cl
-💼 LinkedIn
-⚡ lowsignal.cl
-
-<div align="center">
-
-Less noise. More building.
+**Less noise. More building.**
 
 Santiago, Chile 🇨🇱
 
