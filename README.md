@@ -1,74 +1,42 @@
 # Hey, I'm Felipe 👋
 
-**Founder, product builder & growth operator.**
+**Founder, product builder & growth operator based in Santiago, Chile.**
 
-I'm based in Santiago, Chile, building at the intersection of **business, technology and AI**.
+I work at the intersection of business, technology and AI, turning ideas into products, systems and companies that create real impact. My experience spans building products from 0 → 1, scaling operations and driving growth across industries and international markets.
 
-I like turning complex problems into simple products, building things from scratch, and connecting ideas with execution.
+[Website](https://felipequirozp.cl) · [LinkedIn](https://www.linkedin.com/in/felipequirozp/) · [lowsignal](https://lowsignal.cl)
 
-[Personal website](https://felipequirozp.cl) · [LinkedIn](https://www.linkedin.com/in/felipequirozp/) · [lowsignal](https://lowsignal.cl)
+## What I'm building
 
----
+I'm the **Co-Founder & CEO of [lowsignal](https://lowsignal.cl)**, a growth company combining strategy, technology, creativity and AI. We help organizations build digital experiences, automate processes and unlock new opportunities across Education, B2B and B2C.
 
-### What I'm building
+Today, we've worked with **20+ organizations across 5+ industries**, while building the team, systems and products to support our next stage of growth.
 
-**Co-Founder & CEO at [lowsignal](https://lowsignal.cl)**
+## Where I've made an impact
 
-Building a growth company that combines strategy, technology, creative thinking and AI to help organizations grow.
+| | Experience | Focus |
+|---|---|---|
+| **01** | **lowsignal** — Co-Founder & CEO | Building and scaling a growth company, leading business development, operations, multidisciplinary teams and new products. |
+| **02** | **GeoVictoria** — Product Manager | Developing B2B SaaS solutions for workforce management, from product discovery and validation to production. |
+| **03** | **Tether Education** — Head of Partnerships | Leading strategic partnerships and international expansion across LATAM, the U.S. and Europe, connecting technology, education and AI. |
 
-We work across **Education, B2B and B2C**, building everything from digital experiences to growth systems and automation.
+## Things I've helped build
 
-**20+ organizations supported · 3 business verticals · Multidisciplinary team**
-
-Currently focused on scaling our operations, expanding our capabilities and building internal products that make work smarter.
-
----
-
-### A few things I've worked on
-
-**01 / Building a growth company**
-
-[lowsignal](https://lowsignal.cl) — From an idea to a growing business working with organizations across industries. Leading strategy, business development, operations and product initiatives.
-
-**02 / Making workforce management smarter**
-
-[GeoVictoria](https://www.geovictoria.com) — Worked on B2B SaaS products for workforce planning and optimization, including taking an optimization product from MVP to production and building a shift exchange workflow from 0 → 1.
-
-**03 / Scaling technology in education**
-
-[Tether Education](https://tether.education) — Led strategic partnerships and international expansion across Latin America, the U.S. and Europe, helping bring digital solutions and AI initiatives to public education.
-
----
-
-### Selected projects
-
-| Project | What I built or helped bring to life |
+| Project | What it does |
 |---|---|
-| **lowsignal Workspace** | Internal systems connecting operations, sales and workflows |
-| **Shift Optimizer** | Workforce optimization, from MVP to production |
-| **Shift Change Workflow** | A new employee shift exchange product built from scratch |
-| **AI-powered Education** | Partnerships bringing responsible AI initiatives to 50+ educational institutions |
-| **Virtual School Explorer** | Digital school discovery experiences reaching 20K+ families |
-| **Digital Transformation** | Enrollment and operational solutions for public education systems |
+| **lowsignal Workspace** | Internal tools connecting operations, commercial processes and automation. |
+| **Shift Optimizer** | Workforce optimization solution taken from MVP to production. |
+| **Shift Change Workflow** | Employee shift exchange product built from 0 → 1. |
+| **AI-powered Education** | Responsible AI initiatives reaching 50+ educational institutions. |
+| **Virtual School Explorer** | Digital school discovery experiences reaching 20K+ families. |
+| **Public Education Transformation** | Digital enrollment and management solutions supporting 35K+ students. |
 
-[Explore more projects →](https://felipequirozp.cl/projects)
+Explore the full collection on [my projects page](https://felipequirozp.cl/projects).
 
----
+## A little more about me
 
-### Things I care about
+I'm particularly interested in **product strategy, entrepreneurship, growth systems, B2B SaaS and practical applications of AI**. I enjoy working with multidisciplinary teams, simplifying complex challenges and bringing ideas into the real world.
 
-`Building from 0 → 1` · `Product thinking` · `Growth & GTM` · `AI-powered workflows` · `Business operations` · `Making complex things simple`
+I also [write occasionally](https://felipequirozp.cl/blog) about technology, building companies, products and the people behind great ideas.
 
-I believe great products happen when business, design and technology work together. And that shipping, learning and improving beats overthinking.
-
----
-
-### Beyond the work
-
-I occasionally write about building companies, creating products, technology and the people behind great ideas.
-
-[Read my writing →](https://felipequirozp.cl/blog)
-
-**Less noise. More building.**
-
-Santiago, Chile 🇨🇱
+**Building what’s next. 🇨🇱**
